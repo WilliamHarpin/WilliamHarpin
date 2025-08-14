@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm William!</h1>
 
-<!--
-**WilliamHarpin/WilliamHarpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Cloud-Based SOC (Azure) with Microsoft Sentinel</b>
+  - [Threat detection and visualization](https://github.com/williamharpin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍🏫 My Udemy Courses:</h2>
+
+- [FlutterFlow & Firebase Crash Course - Build Your First App](https://www.udemy.com/course/flutterflow-firebase-build-your-first-app/)
+- [Build a Chat Messaging App with FlutterFlow & Firebase](https://www.udemy.com/course/build-a-chat-messaging-app-with-flutterflow-firebase/)
+
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="WilliamHarpin | X" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" />][X]
+[<img align="left" alt="WilliamHarpin | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />][linkedin]
+
+[X]: https://x.com/williamharpin
+[linkedin]: https://linkedin.com/in/williamharpin
