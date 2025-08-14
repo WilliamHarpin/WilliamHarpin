@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cloud-Based SOC (Azure) with Microsoft Sentinel</b>
-  - [Threat detection and visualization](https://github.com/williamharpin)
+  - [Threat detection and visualization](https://github.com/WilliamHarpin/azure-soc-lab)
 
 <h2>👨‍🏫 My Udemy Courses:</h2>
 
